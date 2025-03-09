@@ -10,7 +10,8 @@ def main():
     try:
         # 访问测试网站
         print("正在访问测试网站...")
-        tab.get("https://turnstile.zeroclover.io/")
+        # tab.get("https://turnstile.zeroclover.io/")
+        tab.get("https://grok.com/?referrer=website")
         
         # 等待并点击 Turnstile 复选框
         print("\n尝试绕过 Turnstile 验证...")

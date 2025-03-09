@@ -104,6 +104,7 @@ headers = {
 
 ### 8.1 官方文档
 - [DrissionPage 官方文档](https://github.com/g1879/DrissionPage) - 提供了 DrissionPage 库的详细使用说明和 API 参考
+- [Turnstile 官方文档](- [Turnstile 官方文档](https://www.drissionpage.cn/browser_control/get_page_info/#-cookies) - 提供了tab对象有一个`cookies()`方法可以获取页面的`cookie`
 - [Cloudflare Turnstile 开发者文档](https://developers.cloudflare.com/turnstile/) - Cloudflare 官方提供的 Turnstile 验证码技术文档
 - [Chrome DevTools Protocol 文档](https://chromedevtools.github.io/devtools-protocol/) - CDP 协议详细说明，用于理解浏览器自动化的底层机制
 
